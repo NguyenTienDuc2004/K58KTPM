@@ -1,7 +1,7 @@
 # K58KTPM
-bài tập 2 k225480106081 Nguyễn Tiến Đức môn hệ quản trị cơ sở dữ liệu
+bài tập 3 k225480106081 Nguyễn Tiến Đức môn hệ quản trị cơ sở dữ liệu
 DEADLINE: 23H59 NGÀY 25/03/2025
-## ĐIỀU KIỆN: (ĐÃ LÀM XONG BÀI 1)
+## ĐIỀU KIỆN: (ĐÃ LÀM XONG BÀI 2)
 Đã cài đặt SQL Server 2022 Dev.
 Đã cài đặt SQL Managerment Studio bản mới nhất.
 Đã kết nối từ SQL Managerment Studio vào SQL Server.
@@ -47,6 +47,17 @@ Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. l�
 ![image](https://github.com/user-attachments/assets/eb169a9b-8e25-49f2-a3f2-c2c35b7e911e)
 ![image](https://github.com/user-attachments/assets/f5fe8220-7b1f-4942-bc4b-5e6ff7d45a71)
 ![image](https://github.com/user-attachments/assets/af735fb3-91f5-4da6-8567-29103e86edf1)
+## hình ảnh bài 3:
+![image](https://github.com/user-attachments/assets/e50751b5-cd35-4da7-be96-d07fafbe7d28)
+![image](https://github.com/user-attachments/assets/1b2791b5-8521-49f9-b12a-19f2c41a9ad3)
+![image](https://github.com/user-attachments/assets/78a13dc9-52ae-4fa8-879f-a6682cbb0e57)
+![image](https://github.com/user-attachments/assets/8bfd119e-c0a2-44c3-95d9-0c9027eacd8a)
+![image](https://github.com/user-attachments/assets/754ccd31-3d73-4abc-bb0d-921a244b27a1)
+![image](https://github.com/user-attachments/assets/6fd43cd4-bb94-4aa7-b497-fc3d3f7ee78f)
+![image](https://github.com/user-attachments/assets/b936304a-3f9b-4ed7-ac80-a42599a770d8)
+
+
+
 
 
 
